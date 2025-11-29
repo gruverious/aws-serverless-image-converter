@@ -49,7 +49,7 @@ List + Delete Lambda → Website
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 aws-serverless-image-converter/
