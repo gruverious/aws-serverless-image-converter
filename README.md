@@ -1,4 +1,4 @@
-# AWS Serverless Image Converter (JPG/PNG → PNG)
+# AWS Serverless Image Converter (JPG/JPEG → PNG)
 
 A fully serverless web application that allows users to upload images, automatically converts them into PNG format using AWS Lambda, and provides download & delete functionality using Amazon S3.
 
